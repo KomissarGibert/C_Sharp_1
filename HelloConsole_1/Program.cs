@@ -1,3 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, Stalin!");
-Console.WriteLine("Hello, Clock!");
+﻿Console.WriteLine("Hello, VasYA, RUN Vasya RUN!");
